@@ -11099,7 +11099,6 @@ servedby.atlantamagazine.com
 atlas-3ib.com
 atlas-upd.com
 metrics.atlascopco.com
-xp.atlassian.com
 atlassolutions.com
 atlastwo.com
 atmalinks.com
@@ -59710,7 +59709,6 @@ ssp.asiaflix.net
 aso1.net
 astrsk.net
 pla.atlasos.net
-ad4.atlassian.net
 atomex.net
 arg.atomex.net
 data.atomex.net
