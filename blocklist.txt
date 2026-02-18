@@ -28552,7 +28552,6 @@ librato.com
 metrics-api.librato.com
 flashstats.libsyn.com
 libtl.com
-snap.licdn.com
 licensing-ledger.com
 lidburger.com
 data.a.lids.com
@@ -28677,7 +28676,6 @@ linkcounter.com
 linkedin-br.com
 ads.linkedin.com
 px.ads.linkedin.com
-platform.linkedin.com
 analytics.pointdrive.linkedin.com
 rtb-trk4.linkedin.com
 rtb-us-east.linkedin.com
