@@ -31976,8 +31976,6 @@ mxlun.com
 mxmkhyrmup.com
 ads-server.mxplay.com
 mxaserver.mxplay.com
-mxpnl.com
-cdn4.mxpnl.com
 mxradon.com
 mxzijg.com
 analytics.my-clay.com
