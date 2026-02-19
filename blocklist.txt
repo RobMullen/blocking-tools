@@ -31088,11 +31088,6 @@ m.mixadvert.com
 mixedreading.com
 mixersing.com
 mixhillvedism.com
-api-eu.mixpanel.com
-api-in.mixpanel.com
-api-js.mixpanel.com
-api-secure.mixpanel.com
-api.mixpanel.com
 decide.mixpanel.com
 switchboard.mixpanel.com
 mixpo.com
