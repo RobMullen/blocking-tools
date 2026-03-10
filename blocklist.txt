@@ -33329,10 +33329,6 @@ a-reporting.nytimes.com
 ads.nytimes.com
 advertising.nytimes.com
 als-svc.nytimes.com
-dd.nytimes.com
-eg.nytimes.com
-et.nytimes.com
-a.et.nytimes.com
 meter-svc.nytimes.com
 nytrng.com
 nz-tourism.com
