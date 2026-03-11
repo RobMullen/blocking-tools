@@ -56226,11 +56226,6 @@ gre.groobee.io
 groupian.io
 growthscore.io
 gw-dv.io
-hackle.io
-client-sdk.hackle.io
-event-api.hackle.io
-event.hackle.io
-monitoring.hackle.io
 sdk.hansel.io
 ujm.hansel.io
 beacon.happycart.io
