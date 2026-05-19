@@ -8030,8 +8030,6 @@ cdn.adtheorent.com
 adthis.com
 adthor.com
 logger.adthor.com
-adthrive.com
-ads.adthrive.com
 logger.adthrive.com
 marmalade.adthrive.com
 track.adthrive.com
