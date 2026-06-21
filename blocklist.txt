@@ -13497,12 +13497,6 @@ broworkers5s.com
 browse-boost.com
 browsecoherentunrefined.com
 browsekeeper.com
-browser-intake-ap1-datadoghq.com
-browser-intake-ap2-datadoghq.com
-browser-intake-datadoghq.com
-browser-intake-ddog-gov.com
-browser-intake-us3-datadoghq.com
-browser-intake-us5-datadoghq.com
 c.browseranalytic.com
 fd.browseranalytic.com
 browserdog.com
@@ -52949,8 +52943,6 @@ sdk.fra-01.braze.eu
 slemula.fra-01.braze.eu
 rest.fra-02.braze.eu
 sdk-tracking.fra-02.braze.eu
-browser-intake-datadoghq.eu
-logs.browser-intake-datadoghq.eu
 bwsr.eu
 c-stat.eu
 analytics.callbell.eu
@@ -77711,10 +77703,8 @@ console.datateam.co.uk
 ads.dennisnet.co.uk
 ads.tso.dennisnet.co.uk
 dhlguide.co.uk
-browser-intake-datadoghq.com.drandts.co.uk
 amplitude.life360.com.drandts.co.uk
 api.stores.eu-south-2.prod.paets.advertising.amazon.dev.drandts.co.uk
-browser-intake-datadoghq.eu.drandts.co.uk
 plausible.io.drandts.co.uk
 www.clarity.ms.drandts.co.uk
 crab.dunkeldbutchers.co.uk
